@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3337204792
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: business5
+      Dependencies: {}
+    Info_1:
+      Name: business4
+      Dependencies: {}
+    Info_2:
+      Name: business1
+      Dependencies: {}
+    Info_3:
+      Name: business2
+      Dependencies: {}
+    Info_4:
+      Name: business3
+      Dependencies: {}
+    Info_5:
+      Name: mainscene
+      Dependencies: {}
